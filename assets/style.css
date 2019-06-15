@@ -23,10 +23,19 @@ body {
     margin-left: 30px;
 }
 
+#linkedIn {
+    padding: 0px 15px 0px 15px;
+    font-size: 150%;
+}
+
+#gitHub {
+    font-size: 150%;
+}
+
 
 
 .my-section {
-    margin-top: 150px;
+    margin-top: 125px;
     background-color: #cccccc;
 }
 
@@ -215,4 +224,9 @@ footer {
     height: 50px;
     width: 300px;
     padding: 10px;
+}
+
+#sendButton {
+    width: 100px;
+    margin-left: 20px;    
 }
